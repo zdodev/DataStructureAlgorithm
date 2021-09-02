@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 3602번 iChess
+
+- 수학
+
 ### 3507번 Automated Telephone Exchange
 
 -   수학
