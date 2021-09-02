@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 3486번 Adding Reversed Numbers
+
+-   수학
+-   구현
+-   사칙연산
+
 ### 3460번 이진수
 
 -   수학
