@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 3507번 Automated Telephone Exchange
+
+-   수학
+-   브루트포스 알고리즘
+
 ### 3486번 Adding Reversed Numbers
 
 -   수학
