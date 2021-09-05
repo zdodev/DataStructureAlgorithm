@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4101번 크냐?
+
+- 수학
+- 구현
+
 ### 4084번 Viva la Diferencia
 
 - 수학
