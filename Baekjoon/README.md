@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4562번 No Brainer
+
+- 구현
+
 ### 1018번 체스판 다시 칠하기
 
 - 브루트포스 알고리즘
