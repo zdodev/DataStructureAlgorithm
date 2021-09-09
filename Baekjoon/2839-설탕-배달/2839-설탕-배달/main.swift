@@ -4,27 +4,23 @@ struct Solution {
     }
     
     func solution() {
-        let input = readInteger()
-        var output = 0
-        var newValue = input
+        var input = readInteger()
         
-        while newValue > 0 {
-            if newValue % 5 == 0 {
-                output += 1
-                newValue -= 5
-            } else if newValue % 3 == 0 {
-                output += 1
-                newValue -= 3
-            } else if newValue > 5 {
-                output += 1
-                newValue -= 5
-            } else {
-                output = -1
-                break
-            }
+        if input == 4 || input == 7 {
+            print(-1)
+            return
         }
         
-        print(output)
+        var count3 = 0
+        var count5 = 0
+        
+        while input % 5 != 0 {
+            input -= 3
+            count3 += 1
+        }
+        
+        count5 = input / 5
+        print(count3 + count5)
     }
 }
 
