@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1075번 나누기
+
+- 수학
+
 ### 4635번 Speed Limit
 
 - 수학
