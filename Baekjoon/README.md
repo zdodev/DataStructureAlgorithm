@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1076번 저항
+
+- 구현
+
 ### 4655번 Hangover
 
 - 수학
