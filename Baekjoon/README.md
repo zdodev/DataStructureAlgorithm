@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4714번 Lunacy
+
+- 수학
+- 사칙연산
+
 ### 4706번 쌍둥이 역설
 
 - 수학
