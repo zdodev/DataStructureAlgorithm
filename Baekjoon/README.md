@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1100번 하얀 칸
+
+- 구현
+- 문자열
+
 ### 4714번 Lunacy
 
 - 수학
