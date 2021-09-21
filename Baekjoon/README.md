@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1152번 단어의 개수
+
+- 구현
+- 문자열
+
 ### 4785번 Filling Out the Team
 
 - 구현
