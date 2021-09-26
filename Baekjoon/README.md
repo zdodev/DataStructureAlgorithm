@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4890번 Tiles of Tetris, NOT!
+
+- 수학
+- 정수론
+- 유클리드 호제법
+
 ### 4880번 다음수
 
 - 수학
