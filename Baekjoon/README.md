@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4892번 숫자 맞추기 게임
+
+- 수학
+- 구현
+- 사칙연산
+
 ### 4890번 Tiles of Tetris, NOT!
 
 - 수학
