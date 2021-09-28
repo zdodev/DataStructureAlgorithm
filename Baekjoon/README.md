@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1173번 운동
+
+- 구현
+- 시뮬레이션
+
 ### 4909번 Judging Olympia
 
 - 수학
