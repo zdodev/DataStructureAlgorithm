@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 4922번 Walk Like an Egyptian
+
+- 수학
+- 구현
+
 ### 1173번 운동
 
 - 구현
