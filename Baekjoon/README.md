@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5043번 정말 좋은 압축
+
+- 수학
+
 ### 4922번 Walk Like an Egyptian
 
 - 수학
