@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5073번 삼각형과 세 변
+
+- 수학
+- 기하학
+
 ### 5063번 TGN
 
 - 수학
