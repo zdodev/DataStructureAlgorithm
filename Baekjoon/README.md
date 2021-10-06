@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5074번 When Do We Finish?
+
+- 수학
+- 구현
+
 ### 5073번 삼각형과 세 변
 
 - 수학
