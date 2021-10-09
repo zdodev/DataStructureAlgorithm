@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5086번 배수와 약수
+
+- 수학
+- 구현
+- 사칙연산
+
 ### 5074번 When Do We Finish?
 
 - 수학
