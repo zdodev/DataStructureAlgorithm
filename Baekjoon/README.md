@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5101번 Sequences
+
+- 수학
+
 ### 5086번 배수와 약수
 
 - 수학
