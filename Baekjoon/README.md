@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5102번 Sarah's Toys
+
+- 수학
+- 구현
+- 사칙연산
+
 ### 5101번 Sequences
 
 - 수학
