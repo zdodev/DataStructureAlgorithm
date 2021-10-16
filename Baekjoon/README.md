@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5217번 쌍의 합
+
+- 구현
+
 ### 5102번 Sarah's Toys
 
 - 수학
