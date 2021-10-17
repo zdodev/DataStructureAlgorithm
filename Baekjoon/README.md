@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5220번 Error Detection
+
+- 수학
+- 구현
+
 ### 5217번 쌍의 합
 
 - 구현
