@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 1225번 이상한 곱셈
+
+- 수학
+- 구현
+- 문자열
+
 ### 5220번 Error Detection
 
 - 수학
