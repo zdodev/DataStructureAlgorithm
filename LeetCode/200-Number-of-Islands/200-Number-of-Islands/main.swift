@@ -2,7 +2,7 @@ class Solution {
     // 입력으로 받을 그래프를 저장할 프로퍼티
     private var graph: [[Character]] = [["0"]]
     
-    // dfs를 수행할 메서드
+    // DFS를 수행하되 육지인 지역을 물가로 만든다.
     private func dfs(_ row: Int, _ column: Int) {
         /*
          땅이 아닌 지점은 더 이상 탐색을 하지 않는다.
@@ -75,4 +75,37 @@ struct TestCase {
         3,
         5,
     ]
+}
+
+class Solution1 {
+    func numIslands(_ grid: [[Character]]) -> Int {
+        var grid = grid
+        
+        func dfs(row: Int, column: Int) {
+            // 사각형 땅을 벗어날 경우 종료
+            if row < 0 || row >= grid.count || column < 0 || column >= grid[0].count || grid[row][column] == "0" {
+                return
+            }
+            
+            grid[row][column] = "0"
+            
+            dfs(row: row + 1, column: column)
+            dfs(row: row - 1, column: column)
+            dfs(row: row, column: column + 1)
+            dfs(row: row, column: column - 1)
+        }
+        
+        var count = 0
+        
+        for row in 0..<grid.count {
+            for column in 0..<grid[0].count {
+                if grid[row][column] == "1" {
+                    dfs(row: row, column: column)
+                    count += 1
+                }
+            }
+        }
+        
+        return count
+    }
 }
