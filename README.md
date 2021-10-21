@@ -1,5 +1,9 @@
 ## Algorithm 문제 풀이
 
+### Algorithm
+
+- 알고리즘을 정리하고 코드로 구현한 저장소입니다.
+
 ### AlgorithmsInSwift
 
 - 알고리즘 풀이에 유용한 Swift 문법을 정리해보았습니다.
