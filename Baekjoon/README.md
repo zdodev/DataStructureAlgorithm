@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5235번 Even Sum More Than Odd Sum
+
+- 수학
+- 구현
+- 사칙연산
+
 ### 23234번 The World Responds
 
 - 구현
