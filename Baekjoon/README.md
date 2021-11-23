@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5666번 Hot Dogs
+
+- 수학
+- 구현
+- 사칙연산
+
 ### 3276번 ICONS
 
 - 수학
