@@ -1,5 +1,10 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5692번 팩토리얼 진법
+
+- 수학
+- 사칙연산
+
 ### 5666번 Hot Dogs
 
 - 수학
