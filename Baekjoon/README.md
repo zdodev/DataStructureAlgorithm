@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 5751번 Head or Tail
+
+- 구현
+
 ### 13580번 Andando no tempo
 
 - 구현
