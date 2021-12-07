@@ -1,5 +1,11 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 6131번 완전 제곱수
+
+- 수학
+- 브루트포스 알고리즘
+- 사칙연산
+
 ### 5751번 Head or Tail
 
 - 구현
