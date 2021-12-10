@@ -1,5 +1,9 @@
 > https://www.acmicpc.net/user/iver0945
 
+### 6139번 Speed Reading
+
+- 수학
+
 ### 6131번 완전 제곱수
 
 - 수학
